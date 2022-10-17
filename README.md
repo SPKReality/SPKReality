@@ -3,3 +3,6 @@ Spark RP is a FiveM roleplay server based in england. We started back in early 2
 We are expecting to launch our full server by the start of 2023 if not early 2023. We strive to have the best
 performing server for you guys weather your PC is high end or low end. We give everyone a chance to live the 
 life of there dreams. Weather that be: MET Police, Paramedic, Mechanic, Lawyer & More!
+
+## 👉 Join Us
+https://img.shields.io/github/followers/SPKReality?style=social
