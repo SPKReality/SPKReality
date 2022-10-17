@@ -7,5 +7,8 @@ life of there dreams. Weather that be: MET Police, Paramedic, Mechanic, Lawyer &
 ## 👉 Join Us
 ||||| Discord - https://discord.gg/c6hFxAGwCD ||||| FiveM Server  - https://cfx.re/join/x44eve |||||
 
-## 👨‍💻 Meet Our Team
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPKReality)](https://github.com/anuraghazra/github-readme-stats)
+## 👨‍💻 Meet My Team
+ <a href=https://github.com/SPKReality><img width="420" src=https://github-readme-stats.vercel.app/api?username=SPKReality&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+</p>
+
+## 
