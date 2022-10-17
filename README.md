@@ -9,6 +9,6 @@ life of there dreams. Weather that be: MET Police, Paramedic, Mechanic, Lawyer &
 
 ## 👨‍💻 Meet My Team
 <p align="center">
- <a href=https://github.com/SPKReality><img width="420" src=https://github-readme-stats.vercel.app/api?username=SPKReality&count_private=true&show_icons=true&title_color=800020&text_color=9F2B68&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+ <a href=https://github.com/SPKReality><img width="420" src=https://github-readme-stats.vercel.app/api?username=SPKReality&count_private=true&show_icons=true&title_color=800020&text_color=9F2B68&icon_color=dc143c&hide_border=true&bg_color=BF40BF&layout=compact&hide_title=false&hide_rank=false><a>
 
 ## 
