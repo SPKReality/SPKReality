@@ -9,13 +9,4 @@ Discord - https://discord.gg/c6hFxAGwCD
 FiveM Server  - https://cfx.re/join/x44eve
 
 ## 👨‍💻 Meet Our Team
-
->> Owners:
-> SPKReality#7727
-> Makka Pakka#2118
-> Staff:
-> im not cheating. Your mum is#4842
-> Bucky#0839
-> ferno#6494
-> EliteXEu#7117
-> r3venge#4639
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPKReality)](https://github.com/anuraghazra/github-readme-stats)
