@@ -5,7 +5,7 @@ performing server for you guys weather your PC is high end or low end. We give e
 life of there dreams. Weather that be: MET Police, Paramedic, Mechanic, Lawyer & More!
 
 ## 👉 Join Us
-Discord - https://discord.gg/c6hFxAGwCD ||||| FiveM Server  - https://cfx.re/join/x44eve
+||||| Discord - https://discord.gg/c6hFxAGwCD ||||| FiveM Server  - https://cfx.re/join/x44eve |||||
 
 ## 👨‍💻 Meet Our Team
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPKReality)](https://github.com/anuraghazra/github-readme-stats)
