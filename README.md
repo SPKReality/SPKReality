@@ -5,4 +5,4 @@ performing server for you guys weather your PC is high end or low end. We give e
 life of there dreams. Weather that be: MET Police, Paramedic, Mechanic, Lawyer & More!
 
 ## 👉 Join Us
-https://img.shields.io/github/followers/SPKReality?style=social
+[![Discord]
