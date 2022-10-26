@@ -1,3 +1,6 @@
+
+![Views](https://komarev.com/ghpvc/?username=SPKReality14&style=flat-square&color=ff69b4)
+
 ## 📜 About Spark RP
 Spark RP is a FiveM roleplay server based in england. We started back in early 2022 and are still in development.
 We are expecting to launch our full server by the start of 2023 if not early 2023. We strive to have the best
