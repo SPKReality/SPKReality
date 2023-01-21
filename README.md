@@ -8,7 +8,7 @@ performing server for you guys weather your PC is high end or low end. We give e
 life of there dreams. Weather that be: MET Police, Paramedic, Mechanic, Lawyer & More!
 
 ## ➡️ Join Us
-- Discord - https://discord.gg/c6hFxAGwCD
+- Discord - https://discord.gg/bKwGQGfdmK
 - FiveM Server - https://cfx.re/join/x44eve
 
 ## 👨‍💻 Meet My Team
