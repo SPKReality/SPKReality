@@ -2,10 +2,11 @@
 ![Views](https://komarev.com/ghpvc/?username=SPKReality14&style=flat-square&color=ff69b4)
 
 ## 📜 About Spark RP
-Spark RP is a FiveM roleplay server based in england. We started back in early 2022 and are still in development.
-We are expecting to launch our full server by the start of 2023 if not early 2023. We strive to have the best
-performing server for you guys weather your PC is high end or low end. We give everyone a chance to live the 
-life of there dreams. Weather that be: MET Police, Paramedic, Mechanic, Lawyer & More!
+Spark Roleplay is a brand new UK Based Server, We are a serious RP server that lets you live the life of your dreams. We run QBCore with a great economy and plenty of opportunities to make money, friends and even get involved in the illegal sides of the UK.
+
+We have a thriving choice of player owned businesses to purchase and many jobs that are public, we also include many whitelisted jobs such as MET Police and NHS you can apply for these in your own time. We have a active crime scene for those who wish to live a life of crime, with gang opportunities and lots of rewarding unique heists to learn and complete.
+
+Our staff team is dedicated to allow the best possible time here at Spark Roleplay with minimal issues and fast answers, we allow new or experienced players to join us as we are here to help. What are you waiting for? Come and join the fun @ Spark Roleplay UK.
 
 ## ➡️ Join Us
 - Discord - https://discord.gg/bKwGQGfdmK
