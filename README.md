@@ -13,11 +13,11 @@ Our staff team is dedicated to allow the best possible time here at Spark Rolepl
  - Discord - https://discord.gg/Sm4vekuS
 
 ## 👨‍💻 Meet My Team
-<p align="left">
+<p align="center">
  <a href=https://github.com/SPKReality><img width="420" src=https://github-readme-stats.vercel.app/api?username=SPKReality&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 
-<p align="right">
+<p align="center">
  <a href=https://github.com/danjack123223><img width="420" src=https://github-readme-stats.vercel.app/api?username=danjack123223&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 
-<p align="left">
+<p align="center">
  <a href=https://github.com/StigDev03><img width="420" src=https://github-readme-stats.vercel.app/api?username=StigDev03&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
