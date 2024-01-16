@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hey,+ im SPKReality...+i+like+code">
+<img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines= Hey,+ im SPKReality...+i+like+code">
 </p>
 
 ![Views](https://komarev.com/ghpvc/?username=SPKReality14&style=flat-square&color=ff69b4)
