@@ -8,8 +8,10 @@ We have a thriving choice of player owned businesses to purchase and many jobs t
 Our staff team is dedicated to allow the best possible time here at Spark Roleplay with minimal issues and fast answers, we allow new or experienced players to join us as we are here to help. What are you waiting for? Come and join the fun @ Spark Roleplay UK.
 
 ## ➡️ Join Us
- - Website - https://sparkroleplay.xyz/
- - Discord - https://discord.sparkroleplay.xyz/
+ - Website - https://sparkroleplay.xyz
+ - Rules - https://rules.sparkroleplay.xyz
+ - Shortcut - https://shortcut.sparkroleplay.xyz
+ - Discord - https://discord,sparkroleplay.xyz
 
 ## 👨‍💻 Meet My Team
 <p align="center">
